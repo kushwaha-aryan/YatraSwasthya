@@ -1,0 +1,14 @@
+{
+  "name": "yatraswasthya",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YatraSwasthya travel health PWA with local Node backend for AI health brief",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
